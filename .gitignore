@@ -31,3 +31,8 @@ build/
 
 ### VS Code ###
 .vscode/
+
+# Windows metadata files
+desktop.ini
+**/desktop.ini
+Thumbs.db
